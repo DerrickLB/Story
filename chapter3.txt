@@ -1,6 +1,8 @@
 Don't be a menace while drinking juice in the hood.
-git init (initialize a git repo)
-git add (add a file to staging area)
-git log (view all commit info)
-git status (check curr status of git repo)
-git commit -m (commit a file with a message. The message should be present tense (i.e., complete chapter 3)
+#git init (initialize a git repo)
+#git add (add a file to staging area)
+#git log (view all commit info)
+#git status (check curr status of git repo)
+#git commit -m (commit a file with a message. The message should be present tense (i.e., complete chapter 3)
+#If you performed a "git add" and you want to remove everything you just added to staging
+# area you enter this command: git rm --cached -r .
