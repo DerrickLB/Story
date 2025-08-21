@@ -6,3 +6,4 @@ Don't be a menace while drinking juice in the hood.
 #git commit -m (commit a file with a message. The message should be present tense (i.e., complete chapter 3)
 #If you performed a "git add" and you want to remove everything you just added to staging
 # area you enter this command: git rm --cached -r .
+# git clone <URL> clone a project from github to your local (i.e., git clone https://github.com/clupasq/word-mastermind.git will clone the word mas# termind game on to your local
